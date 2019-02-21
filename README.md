@@ -1,4 +1,4 @@
-# BNB-
+# BNB-ANALYSIS-AND-VALUATION
 **Multicoin 在 20 号发布的关于 BNB 分析和评估（中文版）**
 
 Multicoin 原文链接：[BINANCE COIN ($BNB) ANALYSIS AND VALUATION](https://multicoin.capital/2019/02/19/binance-coin-analysis-and-valuation/)
