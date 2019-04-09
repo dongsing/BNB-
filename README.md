@@ -9,5 +9,4 @@ Multicoin 原文链接：[BINANCE COIN ($BNB) ANALYSIS AND VALUATION](https://mu
 
 评估报告下载方式二。Github 下载：点击右上方绿色 **clone or download** 按钮可以直接下载（需要登录 Github）
 
-评估报告下载方式三。百度云链接: https://pan.baidu.com/s/1U7crc5hlgf45OXgSsPICaQ
-提取码: uqbc
+评估报告下载方式三。百度云直接下载: https://pan.baidu.com/s/1U7crc5hlgf45OXgSsPICaQ。提取码: uqbc（最方便）
